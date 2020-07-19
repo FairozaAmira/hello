@@ -2,4 +2,4 @@
 hello demo repo
 # hello
 
-[![CircleCi](https://circleci.com/gh/fairozaamira/hello.svg?style=svg)](https://circleci.com/gh/fairozaamira/hello)
+[![CircleCI](https://circleci.com/bb/fairozaamira/hello.svg?style=svg)](https://circleci.com/bb/fairozaamira/hello)
